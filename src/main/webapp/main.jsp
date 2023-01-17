@@ -14,12 +14,12 @@
 			<tr>
 				<td>
 					<form action="">
-						<input type="submit" value="◀관리자 접속하기">
+						<input type="submit" value="◀ 관리자 접속하기">
 					</form>
 				</td>
 				<td>
 					<form action="">
-						<input type="submit" value="사용자 접속하기▶">
+						<input type="submit" value="사용자 접속하기 ▶">
 					</form>
 				</td>
 			</tr>
